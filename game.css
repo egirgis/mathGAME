@@ -1,0 +1,75 @@
+body
+{
+	background-image: url("https://cdn.hipwallpaper.com/i/75/53/0cFvKO.jpg");
+}
+
+	.login_div1 , .login_div2
+	{
+		background: chocolate;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		width: 30%;
+		height: 150px;
+		background-color: cornsilk
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 3px;
+	color: chocolate;
+	font-weight: bold;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+	background: cornsilk;
+	border-radius: 10px;
+	border-top: 10px solid chocolate;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
+h1{
+	color: burlywood;
+}
+h3{
+	color: chocolate;
+}
+#username{
+	color: chocolate;
+}
+button{
+font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', sans-serif;
+}
+.login_div2:hover{
+	border: 5px solid chocolate;
+	width: 30%;
+}
+.login_div1:hover{
+	border: 5px solid chocolate;
+	width: 30%;
+}
+#number_1,#number_2
+{
+	color: chocolate;
+	font-weight: bold;
+}
+h4{
+	color: chocolate;
+	width: 100px;
+}
+#checkbtn{
+	background-color: cornsilk;
+	color: chocolate;
+	border-color: cornsilk;
+}
